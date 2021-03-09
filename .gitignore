@@ -107,3 +107,4 @@ ENV/
 ./1201_BNG_breastTumor
 *.ann
 *.csv
+*.gz
